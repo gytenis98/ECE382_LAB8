@@ -13,10 +13,10 @@ During this lab, you will combine the previous laboratory assignments and progra
 1. Your robot must always start at the home position.
 2. Your robot is considered successful only if it finds one of the three exits and moves partially out of the maze.
 3. A large portion of your grade depends on which door you exit.
-+1.Door Required Functionality
-+2 Door 2 - B Functionality
-+3 Door 3 - A Functionality1.You cannot hit a wall!
-+4 Bonus! Navigate from the A door back to the entrance using the same algorithm.1.You cannot hit a wall!
++ 1.Door Required Functionality
++ 2 Door 2 - B Functionality
++ 3 Door 3 - A Functionality1.You cannot hit a wall!
++ 4 Bonus! Navigate from the A door back to the entrance using the same algorithm.1.You cannot hit a wall!
 
 
 4. Your robot must solve the maze in less than three minutes.
