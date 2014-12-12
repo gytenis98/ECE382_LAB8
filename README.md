@@ -25,8 +25,14 @@ During this lab, you will combine the previous laboratory assignments and progra
 
 
 
-###Prelab
+##Prelab
 
 I used the same hardware from last lab.
 
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB7/master/Initial%20design.JPG?raw=true "LCD")
+
+##Debugging
+I had a hard time with my program. It did not needed much changes from the lab 7, but for some reason it did not do anything. It was like dead. I was working it on for quite a while and then it started to function again (I did not understand why it was not showing any signs of life before). When I resurrected it was working almost how it suppost to. Just the timing was a little bit off. So I had to adjust that. Also, instead of initial idea to keep my robot in the middle I decided that to follow left wall will be easier. 
+
+##Documentation:
+Dr. Coulston helped me a lot with generating ideas how to tackle this lab work. C2C Eric Wardner also game me few tips how to better evaluate my code design for this lab. 
